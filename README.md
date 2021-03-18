@@ -3,6 +3,8 @@ A living kidney exchange matching application using the Blossom and Hungarian al
 
 The app's shareable link on GDrive: https://bit.ly/2KPXUAX
 
+Uses https://pypi.org/project/PySimpleGUI/ (thanks Mike!), NumPy, scipy, and NetworkX
+
 Author:
 Juan Miguel Bawagan
 Institute of Computer Science
@@ -17,6 +19,7 @@ TODO:
 - Help / Manual
 - Better/Scalable UI
 - Better CSV checker (probably one gives feedback)
+
 
 
 03 March 2021
