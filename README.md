@@ -17,3 +17,7 @@ TODO:
 - Help / Manual
 - Better/Scalable UI
 - Better CSV checker (probably one gives feedback)
+
+
+03 March 2021
+Haven't gotten back to this due to the pandemic and stuff. Made it public for now, might be of help to someone.
